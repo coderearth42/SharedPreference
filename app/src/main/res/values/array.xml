@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+    <string-array name="listoptions">
+
+        <item>English</item>
+        <item>Tamil</item>
+        <item>Hindi</item>
+
+    </string-array>
+
+    <string-array name="listvalues">
+
+        <item>English Language</item>
+        <item>Tamil Language</item>
+        <item>Hindi Language</item>
+
+    </string-array>
+
+</resources>
